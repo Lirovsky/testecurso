@@ -1,1 +1,5 @@
-console.log('opa')
+console.log("opa");
+
+function opa() {
+  console.log("first");
+}
